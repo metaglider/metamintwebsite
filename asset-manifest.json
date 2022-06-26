@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9c8b3452.chunk.css",
+    "main.js": "/static/js/main.d828d972.chunk.js",
+    "main.js.map": "/static/js/main.d828d972.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.34b2ea13.js",
+    "runtime-main.js.map": "/static/js/runtime-main.34b2ea13.js.map",
+    "static/css/2.c3e1ecb8.chunk.css": "/static/css/2.c3e1ecb8.chunk.css",
+    "static/js/2.734c1272.chunk.js": "/static/js/2.734c1272.chunk.js",
+    "static/js/2.734c1272.chunk.js.map": "/static/js/2.734c1272.chunk.js.map",
+    "static/js/3.bc26eaee.chunk.js": "/static/js/3.bc26eaee.chunk.js",
+    "static/js/3.bc26eaee.chunk.js.map": "/static/js/3.bc26eaee.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.c3e1ecb8.chunk.css.map": "/static/css/2.c3e1ecb8.chunk.css.map",
+    "static/css/main.9c8b3452.chunk.css.map": "/static/css/main.9c8b3452.chunk.css.map",
+    "static/js/2.734c1272.chunk.js.LICENSE.txt": "/static/js/2.734c1272.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/DEBUG FREE TRIAL.1f66bf60.ttf",
+    "static/media/meta.5f71964f.gif": "/static/media/meta.5f71964f.gif",
+    "static/media/metalogo.6cd97e5a.png": "/static/media/metalogo.6cd97e5a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34b2ea13.js",
+    "static/css/2.c3e1ecb8.chunk.css",
+    "static/js/2.734c1272.chunk.js",
+    "static/css/main.9c8b3452.chunk.css",
+    "static/js/main.d828d972.chunk.js"
+  ]
+}
